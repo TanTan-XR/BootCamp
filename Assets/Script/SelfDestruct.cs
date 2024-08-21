@@ -4,7 +4,7 @@ public class SelfDestruct : MonoBehaviour
 {
     private void OnEnable()
     {
-        Invoke("DestroySelf", 10f); // Calls DestroySelf after 5 seconds
+        Invoke("DestroySelf", 13f); // Calls DestroySelf after 5 seconds
     }
 
     private void DestroySelf()

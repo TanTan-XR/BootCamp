@@ -11,6 +11,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/v7(working).unity
     guid: 049e80d6e9e6cdd4d9188439db050ee3
+  - enabled: 0
+    path: Assets/Scenes/v11(working) 4 - Skybox 1 latest.unity
+    guid: dc599d161a63a4f4fafab532eb5760b0
+  - enabled: 1
+    path: Assets/Scenes/v11(working) 4 - Skybox 1 latest 2.unity
+    guid: 6ecdefe1f156a8f4a8663f2e465f391d
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c370b427d476abf41a600cfe5b7371ed, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c5a742b493d6f474792a1bc5403b33bc, type: 2}
